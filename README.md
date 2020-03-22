@@ -67,7 +67,7 @@
 
                                      HOW TO RUN ???
 
-	Start executing the file from top, code is written in such a format that is started 
+	Start executing the file from top, code is written in such a format that if started 
 	from middle or executed blocks without executing previous blocks may lead to error or
 	inappropriate outputs.
 
