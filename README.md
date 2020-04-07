@@ -67,7 +67,7 @@
 
                                      HOW TO RUN ???
 
-	Start executing the MushroomFinal.ipynb file in jupiter notebook or Google Colab from top, 
+	Download the MushroomFinal.ipynb file and run in jupiter notebook or Google Colab. Start executing from top, 
 	code is written in such a format that if started from middle or executed blocks without 
 	executing previous blocks may lead to error or inappropriate outputs.
 
