@@ -1,10 +1,10 @@
-# MUSHROOM DATASET                          
+# MUSHROOM DATASET                      
 
-			 
+---
 
-                        Data Description:
+## Data Description:
 
-    This data set includes descriptions of hypothetical samples
+ This data set includes descriptions of hypothetical samples
     corresponding to 23 species of gilled mushrooms in the Agaricus and
     Lepiota Family (pp. 500-525).  Each species is identified as
     definitely edible, definitely poisonous, or of unknown edibility and
@@ -15,7 +15,7 @@
 
 
 
-       Attribute Information: (classes: edible=e, poisonous=p)
+## Attribute Information: (classes: edible=e, poisonous=p)
     
      1. cap-shape:                bell=b,conical=c,convex=x,flat=f,
                                   knobbed=k,sunken=s
@@ -51,31 +51,30 @@
                                   scattered=s,several=v,solitary=y
     22. habitat:                  grasses=g,leaves=l,meadows=m,paths=p,
                                   urban=u,waste=w,woods=d
-	
-	Missing Attribute Values: 2480 of them (denoted by "?")
 
-	Class Distribution: 
-   		   --    edible:    4208 (51.8%)
-    		   --    poisonous: 3916 (48.2%)
-  		   --    total:     8124 instances
+---
 
-	In the MushroomFinal.iypnb file Iam attempting to establish a relationship between the
+Missing Attribute Values: 2480 of them (denoted by "?")
+
+##Class Distribution: 
+-    edible:    4208 (51.8%)
+-    poisonous: 3916 (48.2%)
+-    total:     8124 instances
+
+---
+
+In the MushroomFinal.iypnb file Iam attempting to establish a relationship between the
 	features and target("class") and classify them into edible or poisonous mushrooms using 
 	various machine learning algorithms  such as Nueral Network, kNN and logistic Regression.
 
                 
+## HOW TO RUN ???
 
-                                     HOW TO RUN ???
-
-	Download the MushroomFinal.ipynb file and run in jupiter notebook or Google Colab. Start executing from top, 
+Download the MushroomFinal.ipynb file and run in jupiter notebook or Google Colab. Start executing from top, 
 	code is written in such a format that if started from middle or executed blocks without 
 	executing previous blocks may lead to error or inappropriate outputs.
 
 	
-
-                  Lets get going and explore the Mushroom World !!!
+## Lets get going and explore the Mushroom World !!!
 		  
-<html>
-    <p>dummy code</p>
-</html>
 
