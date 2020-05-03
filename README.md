@@ -56,7 +56,7 @@
 
 Missing Attribute Values: 2480 of them (denoted by "?")
 
-##Class Distribution: 
+## Class Distribution: 
 -    edible:    4208 (51.8%)
 -    poisonous: 3916 (48.2%)
 -    total:     8124 instances
